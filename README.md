@@ -38,7 +38,7 @@ Normalize a cross-tabulated sales table where values are distributed across comb
 
 ## 📥 How to Use
 
-1. Open `raw_dirty_table.xlsx` in Excel  
+1. Open `raw_dirty_sales_table.xlsx` in Excel  
 2. Launch Power Query  
 3. Follow the [transformation guide](powerquery/transformation_steps.md)  
 4. Export the normalized table
